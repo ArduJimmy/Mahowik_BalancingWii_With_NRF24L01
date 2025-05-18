@@ -1,7 +1,7 @@
 
-==================================================================
+
 Mahowik BalancingWii rev 1.0 with NRF24L01 (Modified by <a href="https://www.youtube.com/@ardujimmy" target="_blank">Ardujimmy</a>)
-===================================================================
+
 
 This is a Mahowik BalancingWii ver 1.0 with NRF24L01 to control the robot. This Self Balancing Robot uses:
 
