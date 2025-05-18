@@ -29,7 +29,8 @@
 - right motor = STEP1 & DIR1
 - left motor  = STEP2 & DIR2
 
-NRF24L01 Pins Order:
+<p><b>NRF24L01 Pins Order:</b></p>
+
 - CE = 3
 - CSN = 2
 - SCK = 13
@@ -38,4 +39,6 @@ NRF24L01 Pins Order:
 
 I would post a video demo as soon as My battery arrives!
 Please subscribe my channel at https://www.youtube.com/@ardujimmy.
+
+Note: I will post the detail and schematic diagram later.
 
