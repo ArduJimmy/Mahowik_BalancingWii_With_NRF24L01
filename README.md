@@ -1,9 +1,9 @@
 
 
-Mahowik BalancingWii rev 1.0 with NRF24L01 (Modified by <a href="https://www.youtube.com/@ardujimmy" target="_blank">Ardujimmy</a>)
+<h2>Mahowik BalancingWii rev 1.0 with NRF24L01 (Modified by <a href="https://www.youtube.com/@ardujimmy" target="_blank">Ardujimmy</a>)</h2>
 
 
-This is a Mahowik BalancingWii ver 1.0 with NRF24L01 to control the robot. This Self Balancing Robot uses:
+<p>This is a Mahowik BalancingWii ver 1.0 with NRF24L01 to control the robot. This Self Balancing Robot uses:</p>
 
 <ul>
  <li>Stepper Motor Nema 17</li>
@@ -17,7 +17,7 @@ This is a Mahowik BalancingWii ver 1.0 with NRF24L01 to control the robot. This 
  <li>LCD OLED SSD3602</li>
 </ul>
 
-
+<br />
 <b>Motor driver pins:</b>
 - D5 - STEP1 (PORTD 5)
 - D6 - STEP2 (PORTD 6)
