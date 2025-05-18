@@ -18,7 +18,8 @@
 </ul>
 
 <br />
-<b>Motor driver pins:</b>
+<p><b>Motor driver pins:</b></p>
+
 - D5 - STEP1 (PORTD 5)
 - D6 - STEP2 (PORTD 6)
 - D7 - DIR1 (PORTD 7)
