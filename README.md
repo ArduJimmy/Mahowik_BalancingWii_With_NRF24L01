@@ -3,7 +3,7 @@
 <h2>Mahowik BalancingWii rev 1.1 with NRF24L01 (Modified by <a href="https://www.youtube.com/@ardujimmy" target="_blank">Ardujimmy</a>)</h2>
 
 
-<p>This is a Mahowik BalancingWii ver 1.1 with NRF24L01 to control the robot. I modified the original code is to make it work with NRF24L01.</p>
+<p>This is a Mahowik BalancingWii ver 1.1 with NRF24L01 to control the robot. I modified the original code is to make it work with NRF24L01. Original Mahowik's BalancingWii Code: https://github.com/mahowik/BalancingWii</p>
 
 <h3>Main Components:</h3>
 <ul>
