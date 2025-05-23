@@ -38,7 +38,8 @@
 - MOSI = 11
 - MISO 12
 
-I would post a video demo as soon as My battery arrives!
+Demo Video 1: https://www.youtube.com/shorts/02eseAQrVb8 <br />
+Demo Video 2: https://www.youtube.com/watch?v=pGIYzaabQHg <br />
 Please subscribe my channel at https://www.youtube.com/@ardujimmy.
 
 Note: I will post the detail and schematic diagram later.
