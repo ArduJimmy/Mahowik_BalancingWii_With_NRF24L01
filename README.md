@@ -7,15 +7,22 @@
 
 <h3>Main Components:</h3>
 <ul>
- <li>Stepper Motor Nema 17</li>
- <li>DRV8255</li>
- <li>12v 2A x 3 (18650)</li>
- <li>MPU6050</li>
- <li>NRF24L01 with Voltage Regulator 3.3v</li>
- <li>Arduino UNO (You can use Nano 328p 5v</li>
- <li>Buzzer</li>
- <li>Capacitor: 470uf 25v</li>
- <li>LCD OLED SSD3602</li>
+ <li>Stepper Motor Nema 17 (BIPOLAR)</li>
+ <li>2 X A4988 (you can use: DRV8255)</li>
+ <li>3S 11.1v 25C 1500mAh LiPO <a href="https://www.aplic-battery.com/p/drone-battery-aplic-battery-products.html" title="Best Leading Drone Battery Manufacturer in China" taret="_blank">Aplic Drone Battery</a></li>
+ <li>Gyro MPU6050 (GY-521)</li>
+ <li>NRF24L01</li>
+ <li>Arduino Nano 328p</li>
+ <li>Active Buzzer</li>
+ <li>Capacitor: 220uf 25v</li>
+ <li>Capacitor: 10uf 16v</li>
+ <li>2 pins Switch (ON/OFF)</li>
+ <li>Step down DC to DC: 12v to 5v</li>
+ <li>3.3v voltage regulator (or, AMS1117 3.3v)</li>
+ <li>2 X Wheels: 3 inch</li>
+ <li>Light and Rigid Frame</li>
+ <li>Jumper cables</li>
+
 </ul>
 
 <br />
@@ -38,9 +45,11 @@
 - MOSI = 11
 - MISO 12
 
+<br />Full Tutorial Video: https://www.youtube.com/watch?v=9x1S9r0khVc<br />
+
+--------------------
+<br />
 Demo Video 1: https://www.youtube.com/shorts/02eseAQrVb8 <br />
 Demo Video 2: https://www.youtube.com/watch?v=pGIYzaabQHg <br />
 Please subscribe my channel at https://www.youtube.com/@ardujimmy.
-
-Note: I will post the detail and schematic diagram later.
 
