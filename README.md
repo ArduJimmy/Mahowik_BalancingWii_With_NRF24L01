@@ -1,6 +1,6 @@
 
 
-<h2>Mahowik BalancingWii rev 1.1 with NRF24L01 (Modified by <a href="https://www.youtube.com/@ardujimmy" target="_blank">Ardujimmy</a>)</h2>
+<h2>Mahowik BalancingWii rev 2.1 with NRF24L01 (Modified by <a href="https://www.youtube.com/@ardujimmy" target="_blank">Ardujimmy</a>)</h2>
 
 
 <p>This is a Mahowik BalancingWii ver 1.1 with NRF24L01 to control the robot. I modified the original code is to make it work with NRF24L01. Original Mahowik's BalancingWii Code: https://github.com/mahowik/BalancingWii</p>
@@ -44,6 +44,22 @@
 - SCK = 13
 - MOSI = 11
 - MISO 12
+
+<h2>Full Schematic Diagram Circuit</h2>
+<br /><img src="https://github.com/ArduJimmy/Mahowik_BalancingWii_With_NRF24L01/blob/main/self-balancing-robot-schematic-diagram-circuit.jpg" alt="self balancing robot, ardujimmy balancing robot, mahowik balancingwii" title="Full Schematic Diagram Circuit"/>
+<br /><br />
+
+<h3>A4988 Pinout</h3>
+<br /><img src="https://github.com/ArduJimmy/Mahowik_BalancingWii_With_NRF24L01/blob/main/A4988-Pinout.jpg" alt="self balancing robot, ardujimmy balancing robot, mahowik balancingwii" title="A4988 Pinout"/>
+<br /><br />
+
+<h3>HOW TO PID TUNING</h3>
+<br /><img src="https://github.com/ArduJimmy/Mahowik_BalancingWii_With_NRF24L01/blob/main/PID_Tuning_BalancingWii.PNG" alt="self balancing robot, ardujimmy balancing robot, mahowik balancingwii" title="HOW TO PID TUNING"/>
+<br /><br />
+
+<h3>MICRO-STEPPING for This Project</h3>
+<br /><img src="https://github.com/ArduJimmy/Mahowik_BalancingWii_With_NRF24L01/blob/main/micro-stepping.jpg" alt="self balancing robot, ardujimmy balancing robot, mahowik balancingwii" title="MICRO-STEPPING for This Project"/>
+<br /><br />
 
 <br />Full Tutorial Video: https://www.youtube.com/watch?v=9x1S9r0khVc<br />
 
